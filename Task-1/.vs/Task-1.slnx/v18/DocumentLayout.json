@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\master code\\Task-1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\Task-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C687B712-9681-41D1-9480-3049345DFCD1}|Task-1\\Task-1.csproj|c:\\users\\user\\desktop\\master code\\task-1\\task-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C687B712-9681-41D1-9480-3049345DFCD1}|Task-1\\Task-1.csproj|c:\\users\\user\\desktop\\c#\\task-1\\task-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C687B712-9681-41D1-9480-3049345DFCD1}|Task-1\\Task-1.csproj|solutionrelative:task-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\master code\\Task-1\\Task-1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Task-1\\Task-1\\Program.cs",
               "RelativeDocumentMoniker": "Task-1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\master code\\Task-1\\Task-1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Task-1\\Task-1\\Program.cs",
               "RelativeToolTip": "Task-1\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T11:07:33.723Z",
               "EditorCaption": ""

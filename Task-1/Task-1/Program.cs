@@ -38,8 +38,10 @@ namespace Task_1
             Console.WriteLine("fter Change ");
             stud[2] = "khaled";
             stud[3] = "Lina";
-            Console.WriteLine("Student 3" + stud[2]);
-            Console.WriteLine("Student 4" + stud[3]);
+            Console.WriteLine("Student 1 :" + stud[0]);
+            Console.WriteLine("Student 2 :" + stud[1]);
+            Console.WriteLine("Student 3 : " + stud[2]);
+            Console.WriteLine("Student 4 :" + stud[3]);
         }
     }
 }
